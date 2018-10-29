@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Conor McGrory</title>
+    <link>http://www.conormcgrory.com/post/</link>
+    <description>Recent content in Posts on Conor McGrory</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="http://www.conormcgrory.com/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>First post on new website!</title>
+      <link>http://www.conormcgrory.com/post/first_post/</link>
+      <pubDate>Mon, 29 Oct 2018 00:00:00 -0400</pubDate>
+      
+      <guid>http://www.conormcgrory.com/post/first_post/</guid>
+      <description>Hi all! I just created this basic website using the static site generator Hugo. I still don&amp;rsquo;t know much about web development, but it&amp;rsquo;s been fun to learn some of the basics of how to create and host a simple website!</description>
+    </item>
+    
+  </channel>
+</rss>
