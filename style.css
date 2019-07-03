@@ -1,0 +1,35 @@
+/* General styling */
+
+html, body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+  margin: 0px;
+  padding: 0px;
+}
+
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  height: 80%;
+  max-width: 50%;
+}
+
+
+/* Styling for main links */
+
+.main-links {
+  list-style: none;
+  padding-left: 0px;
+  font-size: 18px;
+}
+
+.main-links li {
+  display: inline-block;
+}
+
+.main-links a {
+  text-decoration: none;
+  padding: 4px;
+}
